@@ -14,7 +14,7 @@
                "architecture": "RFduino",
                "version": "2.3.3",
                "category": "Arduino",
-               "url": "https://github.com/3h15/RFduino/archive/v2.3.3.tar.gz",
+               "url": "https://github.com/3h15/RFduino/archive/refs/tags/v2.3.3.tar.gz",
                "archiveFileName": "RFduino_606.tar.gz",
                "checksum": "SHA-256:522307bd3ad71953698ccb53ce26a096821213739dba44bf8187d27c7bac5fd2",
                "size": "34267215",
