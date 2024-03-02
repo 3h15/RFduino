@@ -16,8 +16,8 @@
                "category": "Arduino",
                "url": "https://github.com/3h15/RFduino/archive/refs/tags/v2.3.3.tar.gz",
                "archiveFileName": "RFduino_606.tar.gz",
-               "checksum": "SHA-256:522307bd3ad71953698ccb53ce26a096821213739dba44bf8187d27c7bac5fd2",
-               "size": "34267215",
+               "checksum": "SHA-256:56107a51c123ab22f56463da084e1066631775a3efb7b4acb181ab805ed68fdb",
+               "size": "34266176",
                "help":{
                   "online":"https://github.com/3h15/RFduino"
                },
@@ -26,12 +26,12 @@
                      "name": "RFduino"
                   }
                ],
-               "toolsDependencies": [
+               "toolsDependencies":[ 
                   {
                      "packager": "RFduino",
                      "name": "arm-none-eabi-gcc",
                      "version": "4.8.3-2014q1"
-                  }
+                 } 
                ]
             }
          ],
