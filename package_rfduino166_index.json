@@ -2,11 +2,11 @@
    "packages":[
       {
          "name":"RFduino",
-         "maintainer":"RFduino",
-         "websiteURL":"https://github.com/RFduino/RFduino",
+         "maintainer":"3h15",
+         "websiteURL":"https://github.com/3h15/RFduino",
          "email":"support@rfduino.com",
          "help":{
-            "online":"https://github.com/RFduino/RFduino"
+            "online":"https://github.com/3h15/RFduino"
          },
          "platforms":[
             {
@@ -14,12 +14,12 @@
                "architecture": "RFduino",
                "version": "2.3.3",
                "category": "Arduino",
-               "url": "https://github.com/RFduino/RFduino/archive/v2.3.3.tar.gz",
+               "url": "https://github.com/3h15/RFduino/archive/v2.3.3.tar.gz",
                "archiveFileName": "RFduino_606.tar.gz",
                "checksum": "SHA-256:522307bd3ad71953698ccb53ce26a096821213739dba44bf8187d27c7bac5fd2",
                "size": "34267215",
                "help":{
-                  "online":"https://github.com/RFduino/RFduino"
+                  "online":"https://github.com/3h15/RFduino"
                },
                "boards": [
                   {
